@@ -3,3 +3,16 @@ hii git here first demo of git
 
 
 changes from remote repository
+
+changes in branch1
+
+
+changes in branch2
+
+
+
+2nd chnge in branch1
+
+
+
+last change in branch1
